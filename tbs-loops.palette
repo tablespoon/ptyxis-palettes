@@ -1,0 +1,36 @@
+[Palette]
+Name=TBS Loops
+Background=#080808
+Foreground=#e2e2e2
+Cursor=#ffffff
+# black
+Color0=#222222
+Color8=#525252
+
+# red
+Color1=#ff506e
+Color9=#ff828f
+
+# green
+Color2=#5cb200
+Color10=#6aca00
+
+# yellow
+Color3=#cc8a00
+Color11=#e79d00
+
+# blue
+Color4=#4699ff
+Color12=#73b1ff
+
+# purple
+Color5=#d057ff
+Color13=#da84ff
+
+# aqua
+Color6=#00afaf
+Color14=#01c7c7
+
+# white
+Color7=#b9b9b9
+Color15=#f1f1f1
